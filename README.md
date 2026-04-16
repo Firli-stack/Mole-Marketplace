@@ -78,7 +78,16 @@ This project was developed as part of the **Project-Based Learning (PBL)** cours
 **Supervisor:** Yeni Rokhayati, S.Si., M.Sc — Politeknik Negeri Batam
 
 ---
+## 👨‍💻 My Contributions (Firli Hanifurahman)
 
+- Developed **authentication system** including login, registration, session management, and logout
+- Implemented **password reset feature using OTP verification**
+- Integrated application with **database for user, profile, and transaction data management**
+- Built and improved **user profile system** for both buyer and seller roles
+- Developed **edit profile functionality** with dynamic data handling
+- Managed **routing and application structure** for user-related features
+- Improved UI components including **navbar, sidebar, and profile pages**
+---
 ## 🚀 Getting Started
 
 ```bash
